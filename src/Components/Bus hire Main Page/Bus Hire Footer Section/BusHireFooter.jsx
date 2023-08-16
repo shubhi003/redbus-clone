@@ -43,7 +43,7 @@ const BusHireFooter = () => {
                 </div>
                 <div className={Styles.busHireFooterimageSection}>
                     <div><img src="https://www.redbus.in/bushire/static/mwebv2/header/logo_rb.svg" alt="" /></div>
-                    <div className={Styles.copyRightText}>Ⓒ 2023 Made with ❤️ By Unnati Chaudhary</div>
+                    <div className={Styles.copyRightText}>Ⓒ 2023 Made with ❤️ By Shubhi Tiwari</div>
 
                 </div>
             </div>
